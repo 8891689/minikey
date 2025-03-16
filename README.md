@@ -1,6 +1,7 @@
 # minikey
 
-Faster key mini 22 or 30 generator and supports converting mini key to hex key output.
+Faster BTC MINI private key 22 or 30 generator and supports converting mini key to hex key output.
+
 **Please read all this document before to use the program**
 
 ## Download
