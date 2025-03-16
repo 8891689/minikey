@@ -12,7 +12,7 @@ To clone the repository:
 git clone https://github.com/8891689/minikey.git
 ```
 
-don't forget change to the minikey directory
+don't forget change to the minikeyg directory
 
 `cd minikey-master`
 
@@ -75,6 +75,51 @@ Add -d command to convert miniwifkey into hexadecimal private key output, which 
 ./minikey -r -d
 ```
 Adding -r can randomly generate a valid miniwif, and adding the -d command can convert the miniwifkey into a hexadecimal private key output.
+
+## Examples
+```
+./minikey -r
+SGPqaH1vT4ZStcBPDS9oGW
+SiGvvWU8MKC5byukoMMDJi
+ST9Ds8EFjMjo1nH7HbD3Uc
+Sekbnn4ZVTAfkYbF1LU8Fe
+Svww8NdQFPjDcbKxrobYSg
+SNdQFPjDcbKxrobYSgXUaN
+SCbsQ56Ex2m2S8YggHWiHK
+SpdfVYKn64vAJ8MCpKVpAe
+SN1F5fTdMvr7CqkvjLwKJ7
+SXHtUdtWgrPYZN23Zh2uy2
+SJC85qXyxuouvbris2Shan
+SkCqyL5vZe3jw32yT3GnwB
+SNpT3wfsfacSqjC9p5MKFL
+SiHjpNBitbMGCPgqHkLqbs
+SoLS1G5NFrDPMA9Bp351i5
+SxNxFFYC2yxF4gW3EUUy4e
+SPjm8sv4VkkU8nApRNWCye
+SmAJ88eTc78Y8ubWhNW81F
+
+./minikey -r -d
+18c8f3acb6896cdfaafebf1c4c2c181e2cb27498e015afddb820851b3e03abc4
+c9b38867bc1c1cacf95787a298ba1c60f883ead33df140befb16cea3b9a143bc
+b50f57a8aa673241f63ed02a897c40c8e52525de2d3d0c69d774660f5463e387
+ca48a08ab9c67f0d9092998febe08bde21fa60770da7001b17e7ac546384df54
+fdc06cf3d8606f0ee0abb98a90dff7c1b3e757acc703de1fb1bb7db447439200
+987f5c730d16619f8e4c171c321b5c839b9877282ce347b69f45db43528dc576
+6103a2612b4099b08e7def3068a6dd79533a6eae5574bbe84a1e6d925362b83d
+625160e99445c75d67ba45d3d525f334e4562bdd3c132a89b2007e8113384bc6
+2b7929aa9193f5f288baeae5565b9d079e43bf980a0da65c1ea640737b4ee63a
+9fbd5be2648fe02a6d1a7ca55a652717f29f59c5d0d0b587ddd03f179e429bbc
+19a82f32095462ceb59f4bfded54fca5cbe9579579d0b1b4a05b58f66c1d95be
+a4284400eac00b09297af4158872f8ae4e4ac2adc0b84473c5d25c6796554bd9
+8da60ac515b515e5d8e7b670ff062af613cc9c271859205fa93c07dd55bc04f0
+69019a857eb5dfcb43813de86428b18dc06b3047bd916d94f9bb83b9ec7ea773
+ca1e426ac595a9c5122545c5dba1bdab0e891a4d07f12b70382896f2639eb844
+dd310692610c19414bcbcb1ad3170025397fc8e830717adbcf6d5756847b332b
+408eb2660b84a7b16178f9b0972f9009ed940f4311ab5414d9fa6506f5ebeffd
+e929d7684de8082e7d8b876765b6092e8b00a2dbfd56297eb58dd70a45930d59
+4e5ba9b063993a3713fef076dbed4d7dbc89624e31dfa4552f215284591d9fd4
+41cbbd6fbf7a9beab4d83da0dec23d59204d9a735777997b2b5a0ae9737e381d
+```
 
 ## Just a key generator
 
