@@ -1,6 +1,6 @@
 # minikey
 
-Faster casa SCI US key mini 22 or 30 generator and supports converting mini key to hex key output.
+Faster key mini 22 or 30 generator and supports converting mini key to hex key output.
 **Please read all this document before to use the program**
 
 ## Download
