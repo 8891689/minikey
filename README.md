@@ -12,9 +12,9 @@ To clone the repository:
 git clone https://github.com/8891689/minikey.git
 ```
 
-don't forget change to the minikeyg directory
+don't forget change to the minikey directory
 
-`cd minikey-master`
+`cd minikey`
 
 
 ## How to build
